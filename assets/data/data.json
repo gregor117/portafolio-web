@@ -1,15 +1,16 @@
 {
     "title": "Gregorio Vidaña Espinoza | Portafolio",
     "description": "Soy gregorio, soy programador fullstacks.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
+    "image": "/imagenes/heroimage.jpg",
+    "avatar": "/imagenes/heroimage.jpg",
     "name": "Gregorio Vidaña",
     "skill": "Ingeniero en Sistemas Computacionales, Programador",
     "location": "Mexicali baja california",
     "media": {
         "email": "Gregoriovidaez@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/gregor117"
+        "github": "https://github.com/gregor117",
+        "likedin": "https://www.linkedin.com/in/gregorio-vidana-espinoza-0b1a1b1b4/"
     },
     "about": "Soy una persona proactiva, participante del trabajo colaborativo en equipos. Sé reconocer las habilidades individuales de mis compañeros de equipo y  acercarme a ellos para adquirir o mejorar mis habilidades y así contribuir al equipo. . Me gusta desarrollar entornos web donde las personas puedan satisfacer sus necesidades",
     "technologies": [
