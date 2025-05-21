@@ -69,92 +69,121 @@
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+      "icon": "wrench",
+      "title": "Mexico Compania Constructora",
+      "subtitle": "Ayudante genera en mantenimiento maquinaria",
+      "description": "Ayudante general en el área de mantenimiento maquinaría en la México Compañia Constructora en el sector Nacozari, Sonora, México",
+      "date": "Mayo/2024 - Actual"
+    },
+    {
+      "icon": "terminal",
+      "title": "Estetica Jesi",
+      "subtitle": "Android Developer",
+      "description": "Creación de una aplicación móvil para el manejo de citas, usando almacenamiento local con SQLite e una interfaz intuitiva para la cliente",
+      "date": "Mayo/2024 - Actual"
+    },
+    {
+      "icon": "terminal",
+      "title": "Mexico Compania Constructora",
+      "subtitle": "Practicante de Ingenieria en Sistemas Computacionales",
+      "description": "Desarrollo de un proyecto de lista de asistencia laboral para la titulacion.",
+      "date": "Agosto/2023 - Diciembre/2023"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "cloud",
+      "title": "Master Rest api con express y MongoDB",
+      "subtitle": "Proyecto personal",
+      "description": "El proyecto detalla una API para llevar un control de productos y usuarios mediante registros en la base de datos",
+      "technologies": [
+        {
+          "icon": "devicon-typescript-plain",
+          "name": "TypeScript"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+          "icon": "devicon-nodejs-plain-wordmark",
+          "name": "Node Js"
+        },
+        {
+          "icon": "devicon-express-original",
+          "name": "Express JS"
+        },
+        {
+          "icon": "devicon-mongodb-plain",
+          "name": "MongoDB"
         }
-    ],
-    "projects": [
+      ],
+      "github": "https://github.com/RamonCheno/RestApi-Technology",
+      "url": "https://restapi-technology.onrender.com/api/v1/docs/"
+    },
+    {
+      "icon": "smartphone",
+      "title": "Aplicacion de lista de agendas",
+      "subtitle": "Proyecto personal",
+      "description": "proyecto personal de una aplicacion movil de lista de agendas",
+      "technologies": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+          "icon": "devicon-flutter-plain",
+          "name": "Flutter"
         }
-    ],
-    "training": [
+      ],
+      "image": "/proyectImage/project2.jpg",
+      "github": "https://github.com/RamonCheno/new_agenda_app"
+    },
+    {
+      "icon": "smartphone",
+      "title": "Aplicacion de lista de asistencia escolar",
+      "subtitle": "Proyecto escolar",
+      "description": "Proyecto escolar sobre una aplicacion movil de lista de asistencia escolar",
+      "technologies": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+          "icon": "devicon-flutter-plain",
+          "name": "Flutter"
         }
-    ],
-    "extras": [
+      ],
+      "image": "/proyectImage/project3.jpg",
+      "github": "https://github.com/RamonCheno/AppListaAsistencia"
+    },
+    {
+      "icon": "joystick",
+      "title": "Juego de memograma",
+      "subtitle": "Proyecto personal",
+      "description": "Primer Proyecto desarrollado en el año 2020 utilizndo JavaFX con el objetivo de hacer un juego de memograma",
+      "technologies": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+          "icon": "devicon-java-plain colored",
+          "name": "Java"
         }
-    ]
+      ],
+      "image": "/proyectImage/project1.jpg",
+      "github": "https://github.com/RamonCheno/juego_memograma"
+    }
+  ],
+  "training": [
+    {
+      "icon": "graduation-cap",
+      "title": "Universidad de la Sierra, Moctezuma, Son, Méx",
+      "subtitle": "Licenciatura en Ingenieria en Sistemas Computacionales",
+      "description": "Carrera universitaria",
+      "date": "Agosto/2019-Diciembre/2023",
+      "certificate": ""
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "Escuela Preparatoria General Enrique Esqueda, Esqueda, Son, Méx",
+      "subtitle": "Tecnico Informatico y Fisico-Matematico",
+      "description": "Carrera Tecnica",
+      "date": "Agosto/2016-junio/2019",
+      "certificate": ""
+    }
+  ],
+  "extras": [
+    {
+      "image": "/UC-73899588-8521-41f1-91a6-54485(1).jpg",
+      "title": "Master API REST NodeJS: Arquitectura limpia CRUD/LOGIN",
+      "description": "Certificado de finalizacion en el curso de Arquitectura limpia en la plataforma Udemy.",
+      "url": "https://www.udemy.com/certificate/UC-73899588-8521-41f1-91a6-544856c5fefa/"
+    }
+  ]
 }
