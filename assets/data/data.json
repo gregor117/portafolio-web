@@ -121,7 +121,7 @@
       "icon": "cloud",
       "title": "Grupo Primak",
       "subtitle": "Pagina web para la empresa",
-      "description": "Desarrollo de una pagina web para la empresa, usando React y houstinger para el despliegue del sitio web",
+      "description": "Desarrollo de una pagina web para la empresa, usando React y hostinger para el despliegue del sitio web",
         "technologies": [
             {
             "icon": "devicon-react-original-wordmark colored",
@@ -142,7 +142,7 @@
     {
       "icon": "wrench",
       "title": "Aplicacion Multiplataforma",
-      "subtitle": "Proyecto PasificSoft",
+      "subtitle": "Proyecto PacificSoft",
       "description": "Se requeria una aplicación satélite del Punto de Venta para: donde se pueda cargar un Excel para cambiar el costo de reposición, precio por unidad (pz, caja, tira, etc) y precio por volumen ",
       "technologies": [
         {
