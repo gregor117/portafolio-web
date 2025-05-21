@@ -69,95 +69,93 @@
     ],
     "experience": [
         {
+      "icon": "cloud",
+      "title": "Prodigia",
+      "subtitle": "Programador fullstack",
+      "description": "Desarrollo de una aplicacion web para el consumo de API REST, usando React y Python para el desarrollo del frontend y backend respectivamente. Uso de AWS para el despliegue de la aplicacion",
+      "date": "Junio/2024 - enero/2025"
+    },
+    {
       "icon": "wrench",
-      "title": "Mexico Compania Constructora",
-      "subtitle": "Ayudante genera en mantenimiento maquinaria",
-      "description": "Ayudante general en el área de mantenimiento maquinaría en la México Compañia Constructora en el sector Nacozari, Sonora, México",
-      "date": "Mayo/2024 - Actual"
+      "title": "Grupo Primak",
+      "subtitle": "Desarrollador web",
+      "description": "Creación de un sitio web para la empresa, usando React ademas del uso de houstinger para el despliegue del sitio web",
+      "date": "enero/2025 - febrero/2025"
     },
     {
       "icon": "terminal",
-      "title": "Estetica Jesi",
-      "subtitle": "Android Developer",
-      "description": "Creación de una aplicación móvil para el manejo de citas, usando almacenamiento local con SQLite e una interfaz intuitiva para la cliente",
-      "date": "Mayo/2024 - Actual"
-    },
-    {
-      "icon": "terminal",
-      "title": "Mexico Compania Constructora",
-      "subtitle": "Practicante de Ingenieria en Sistemas Computacionales",
-      "description": "Desarrollo de un proyecto de lista de asistencia laboral para la titulacion.",
-      "date": "Agosto/2023 - Diciembre/2023"
+      "title": "PacificSoft Inc",
+      "subtitle": "Desarrollador ",
+      "description": "Desarrollo de una aplicacion multiplataforma para la empresa, usando C# y MySQL para el consumo de datos",
+      "date": "marzo/2025 - actualidad"
     }
   ],
   "projects": [
     {
       "icon": "cloud",
-      "title": "Master Rest api con express y MongoDB",
-      "subtitle": "Proyecto personal",
-      "description": "El proyecto detalla una API para llevar un control de productos y usuarios mediante registros en la base de datos",
+      "title": "Proyecto Prodigia",
+      "subtitle": "Consumo de API REST mas peticiones HTTP",
+      "description": " desarrollo de una aplicación web para el equipo de soporte técnico de Domo Fiscal, destinada a optimizar consultas de información clave en una base de datos, Con el uso de las tecnologías como AWS Lambda, API Gateway, React y Python. ",
       "technologies": [
         {
-          "icon": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "icon": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
         },
         {
-          "icon": "devicon-nodejs-plain-wordmark",
-          "name": "Node Js"
+          "icon": "devicon-react-original-wordmark colored",
+          "name": "React"
         },
         {
-          "icon": "devicon-express-original",
-          "name": "Express JS"
+          "icon": "devicon-mysql-original colored",
+          "name": "MySQL"
         },
         {
-          "icon": "devicon-mongodb-plain",
-          "name": "MongoDB"
+          "icon": "devicon-materialui-plain colored",
+          "name": "Material UI"
         }
       ],
-      "github": "https://github.com/RamonCheno/RestApi-Technology",
-      "url": "https://restapi-technology.onrender.com/api/v1/docs/"
+      "image": "/imagenes/prodigia.jpg",
+      "github": "https://github.com/gregor117/proyectoProdigiaa.git"  
     },
     {
-      "icon": "smartphone",
-      "title": "Aplicacion de lista de agendas",
-      "subtitle": "Proyecto personal",
-      "description": "proyecto personal de una aplicacion movil de lista de agendas",
-      "technologies": [
-        {
-          "icon": "devicon-flutter-plain",
-          "name": "Flutter"
-        }
-      ],
-      "image": "/proyectImage/project2.jpg",
-      "github": "https://github.com/RamonCheno/new_agenda_app"
+      "icon": "cloud",
+      "title": "Grupo Primak",
+      "subtitle": "Pagina web para la empresa",
+      "description": "Desarrollo de una pagina web para la empresa, usando React y houstinger para el despliegue del sitio web",
+        "technologies": [
+            {
+            "icon": "devicon-react-original-wordmark colored",
+            "name": "React"
+            },
+            {
+            "icon": "devicon-html5-plain",
+            "name": "HTML5"
+            },
+            {
+            "icon": "devicon-css3-plain",
+            "name": "CSS3"
+            }
+        ], 
+       "image": "/imagenes/grupoprimak.png",
+       "github": "https://github.com/gregor117/paginaPrimak.git"
     },
     {
-      "icon": "smartphone",
-      "title": "Aplicacion de lista de asistencia escolar",
-      "subtitle": "Proyecto escolar",
-      "description": "Proyecto escolar sobre una aplicacion movil de lista de asistencia escolar",
+      "icon": "wrench",
+      "title": "Aplicacion Multiplataforma",
+      "subtitle": "Proyecto PasificSoft",
+      "description": "Se requeria una aplicación satélite del Punto de Venta para: donde se pueda cargar un Excel para cambiar el costo de reposición, precio por unidad (pz, caja, tira, etc) y precio por volumen ",
       "technologies": [
         {
-          "icon": "devicon-flutter-plain",
-          "name": "Flutter"
-        }
-      ],
-      "image": "/proyectImage/project3.jpg",
-      "github": "https://github.com/RamonCheno/AppListaAsistencia"
-    },
-    {
-      "icon": "joystick",
-      "title": "Juego de memograma",
-      "subtitle": "Proyecto personal",
-      "description": "Primer Proyecto desarrollado en el año 2020 utilizndo JavaFX con el objetivo de hacer un juego de memograma",
-      "technologies": [
+          "icon": "devicon-csharp-plain",
+          "name": "C#"
+        },
         {
-          "icon": "devicon-java-plain colored",
-          "name": "Java"
+            "icon": "devicon-mysql-original colored",
+            "name": "MySQL"
         }
       ],
-      "image": "/proyectImage/project1.jpg",
-      "github": "https://github.com/RamonCheno/juego_memograma"
+      "image": "/imagenes/desarrollomovil.jpg",
+      "github": "https://github.com/gregor117/ExcelaJson.git"
     }
   ],
   "training": [
@@ -166,13 +164,13 @@
       "title": "Universidad de la Sierra, Moctezuma, Son, Méx",
       "subtitle": "Licenciatura en Ingenieria en Sistemas Computacionales",
       "description": "Carrera universitaria",
-      "date": "Agosto/2019-Diciembre/2023",
+      "date": "Agosto/2020-Diciembre/2024",
       "certificate": ""
     },
     {
       "icon": "graduation-cap",
-      "title": "Escuela Preparatoria General Enrique Esqueda, Esqueda, Son, Méx",
-      "subtitle": "Tecnico Informatico y Fisico-Matematico",
+      "title": "Conalep, Nacozari, Son, Méx",
+      "subtitle": "Electromecanico Industrial",
       "description": "Carrera Tecnica",
       "date": "Agosto/2016-junio/2019",
       "certificate": ""
@@ -180,10 +178,22 @@
   ],
   "extras": [
     {
-      "image": "/UC-73899588-8521-41f1-91a6-54485(1).jpg",
-      "title": "Master API REST NodeJS: Arquitectura limpia CRUD/LOGIN",
-      "description": "Certificado de finalizacion en el curso de Arquitectura limpia en la plataforma Udemy.",
-      "url": "https://www.udemy.com/certificate/UC-73899588-8521-41f1-91a6-544856c5fefa/"
+      "image": "/imagenes/python1.png",
+      "title": "Curso de Python udemy",
+      "description": "Curso de python de cero a experto.",
+      "url": "https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/?couponCode=CP130525"
+    },
+    {
+      "image": "/imagenes/Js.png",
+      "title": "Curso de JavaScript udemy",
+      "description": "Curso de java script en la plataforma Udemy.",
+      "url": "https://www.udemy.com/course/javascript-total/?couponCode=CP130525"
+    },
+    {
+      "image": "/imagenes/nj.png",
+      "title": "Curso de next.js udemy",
+      "description": "Curso de next.js en la plataforma Udemy.",
+      "url": "https://www.udemy.com/course/curso-react-js/"
     }
   ]
 }
